@@ -1,0 +1,23 @@
+{
+	"name" : "Level 1",
+	"description" : "",
+	"data" : {
+		"objects" : [
+			{
+				"object_id" : 1,
+				"position" : [10,10],
+				"speed" : [1,1]
+			},
+			{
+				"object_id" : 1,
+				"position" : [0,0],
+				"speed" : [2,2]
+			},
+			{
+				"object_id" : 1,
+				"position" : [45,28],
+				"speed" : [10,1]
+			}
+		]
+	}
+}
